@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jawad Irfan
-- 👀 I’m interested in Blockchain developing and Web developing
 - 🌱 I’m currently Studying Computer System Engineering 
 - 📫 How to reach me jawadirfan756@gmail.com
   
